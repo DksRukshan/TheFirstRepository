@@ -45,4 +45,5 @@ def mergeSubList(list1,list2):
 #print(mergeSubList(myList_a,myList_b))
 myList = [1,2,200,4,5,6,7,145,34]
 print(mergeSort(myList))
-#input("This is your result")
+input("Press Enter To close")
+
